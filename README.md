@@ -17,7 +17,7 @@ Unity · C# · Photon Fusion · Socket.IO · REST APIs · NestJS
 
 ## See it in action
 
-[![Watch the Buraco Plus gameplay video](https://img.youtube.com/vi/5LoBQB4yMF0/maxresdefault.jpg)](https://www.youtube.com/watch?v=5LoBQB4yMF0)
+[![Watch the Buraco Plus gameplay video](https://img.youtube.com/vi/5LoBQB4yMF0/hqdefault.jpg)](https://www.youtube.com/watch?v=5LoBQB4yMF0)
 
 - 🎬 [Watch the Buraco Plus gameplay video](https://www.youtube.com/watch?v=5LoBQB4yMF0)
 - 🎞️ [Watch my full showreel](https://www.youtube.com/watch?v=8tkrPeMQgKI)
